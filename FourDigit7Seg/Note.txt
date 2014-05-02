@@ -1,0 +1,1 @@
+四位數七段顯示器為HS420561K，為共陰極，用的電晶體為NPN雙載子接面電晶體(Bipolar Junction Transistor)，Demo是修改Cooper Maa提供的範例而來。
